@@ -8,6 +8,7 @@ If this script helped you in any way, please contribute some feedback. BTC donat
 
 **Have fun, this is crypto after all!**
 
+https://steemit.com/masternodes/@swcrypto/ccbc-easy-guide-to-setup-multiple-masternodes-on-1-vps
 
 
 ## Installation
