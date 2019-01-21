@@ -15,7 +15,7 @@ If this script helped you in any way, please contribute some feedback. BTC donat
 SSH to your VPS and clone the Github repository:
 
 ```bash
-git clone https://github.com/CryptoCashBack-Hub/Advanced-Install.git && cd Advanced-Install
+git clone https://github.com/DUELIUM-CORE/Advanced-Install.git && cd Advanced-Install
 ```
 
 Install & configure your desired master node with options:
