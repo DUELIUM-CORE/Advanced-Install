@@ -19,6 +19,10 @@ SSH to your VPS and clone the Github repository:
 git clone https://github.com/DUELIUM-CORE/Advanced-Install.git && cd Advanced-Install
 ```
 
+```bash
+sudo chmod a+x install.sh
+```
+
 Install & configure your desired master node with options:
 
 ```bash
